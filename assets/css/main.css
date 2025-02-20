@@ -945,7 +945,7 @@ section,
   padding: 40px;
 }
 
-.about .content h3 {
+.about .content .h3 {
   font-size: 14px;
   font-weight: 700;
   color: var(--accent-color);
@@ -1511,7 +1511,7 @@ section,
   padding: 15px;
 }
 
-.portfolio .portfolio-content .portfolio-info h4 {
+.portfolio .portfolio-content .portfolio-info .h4 {
   font-size: 14px;
   padding: 5px 10px;
   font-weight: 400;
